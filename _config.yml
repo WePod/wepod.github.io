@@ -77,7 +77,7 @@ theme: hexo-theme-brewski
 theme_config:
   favicon: /favicon.png
   logo: /logo.svg
-  google_analytics: UA-XXXXXXXX-X
+  google_analytics: UA-149031051-1
   copyright:
     since: 2019
     name: POD Team
