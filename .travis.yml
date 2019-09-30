@@ -5,7 +5,7 @@ node_js:
 cache: npm
 branches:
   only:
-    - master # build master branch only
+    - blog # build master branch only
 script:
   - hexo generate # generate static files
   - touch ./public/.nojekyll
@@ -15,5 +15,6 @@ deploy:
   github-token: $GH_TOKEN
   keep-history: true
   on:
-    branch: master
+    branch: blog
   local-dir: public
+  target_branch: master
