@@ -2,9 +2,14 @@ mixin postInfo(item)
     .post-info
         a
         != full_date(item.date, config.date_format)
+        - item.tags.each(function (tag) {
+            a.post-tag(href='/tags/' + tag.name, title=tag.name)
+                != tag.name
+        - })
         if item.from && (is_home() || is_post())
             a.post-from(href=item.from, target='_blank', title=item.from)
                 != __('translate_original')
+        
 
 mixin postTitle(title)
     if title
