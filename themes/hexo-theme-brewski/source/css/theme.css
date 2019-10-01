@@ -289,14 +289,14 @@ header .nav-list-item a {
   display:none;
 }
 
-.post-content a {
+.post-content a:not(.at-column) {
   color: #6f9941;
   position: relative;
   transition: 0.2s color;
   padding: 0 2px;
 }
 
-.post-content a:not(.headerlink)::before {
+.post-content a:not(.headerlink):not(.at-column)::before {
   content: '';
   width: calc(100% + 4px);
   height: 3px;
@@ -309,11 +309,11 @@ header .nav-list-item a {
   transition: 0.2s height;
 }
 
-.post-content a:not(.headerlink):hover::before {
+.post-content a:not(.headerlink):not(.at-column):hover::before {
     height: calc(100% + 4px);
 }
 
-.post-content a:not(.headerlink):hover {
+.post-content a:not(.headerlink):not(.at-column):hover {
     color: white;
 }
 
