@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wepod.github.io/"/>
-  <updated>2019-10-01T11:13:59.901Z</updated>
+  <updated>2019-10-01T11:18:57.923Z</updated>
   <id>https://wepod.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://wepod.github.io/blog/Merhaba-Dunya/"/>
     <id>https://wepod.github.io/blog/Merhaba-Dunya/</id>
     <published>2019-09-30T21:23:49.000Z</published>
-    <updated>2019-10-01T11:13:59.901Z</updated>
+    <updated>2019-10-01T11:18:57.923Z</updated>
     
     <content type="html"><![CDATA[<p>Biz kimiz, amacımız ne ve neden bu kadar önemli?</p><a id="more"></a> <p>Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencileri olarak yapacak olduğumuz projenin amaçlarını, projede kullanılacak araçları ve projenin geliştirimini olabildiğince detaylı bir şekilde bu blogda paylaşmayı düşünüyoruz.</p><p>Bu proje, 4. sınıf öğrencileri <a href="https://github.com/atagulalan" target="_blank" rel="noopener">Ata Gülalan</a>, <a href="https://github.com/oguzturker8" target="_blank" rel="noopener">Oğuzhan Türker</a> ve <a href="https://github.com/fxy0" target="_blank" rel="noopener">Serdar Tunalı</a>, Araştırma Problemleri ve Bitirme Projesi dersleri kapsamında <a href="http://akademikpersonel.kocaeli.edu.tr/pinar.onaydurdu/" target="_blank" rel="noopener">Yar. Doç. Dr. Pınar ONAY DURDU</a> gözetmenliğinde yürütülecektir.</p><p>Bu projede temel amacımız, çocuklara algoritma öğreten bir yapı geliştirmek.</p><p>Bu projeyi web tarayıcı üzerinde gerçekleyerek çok daha büyük bir kitleyi hedefliyoruz. Son zamanlarda iyice yaygınlaşan <strong>PWA (Progressive Web Apps)</strong> kullanarak, internet olmasa dahi cep telefonları ve tabletlerde çalışır hale getirmeyi planlıyoruz. Böylece hareket halinde, uçakta veya internetin olmadığı herhangi bir yerde dahi uygulamayı kullanılabilir sağlayarak çocuklarımızın eğitimine katkı sağlamayı amaçlıyoruz.</p><h4 id="Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli"><a href="#Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli" class="headerlink" title="Neden çocuklara algoritma ve kodlama öğretmek önemli?"></a>Neden çocuklara algoritma ve kodlama öğretmek önemli?</h4><p>Gelecek, daha fazla yazılımcı bekliyor. Gün geçtikçe yazılımcılara olan ihtiyaç artıyor ve <strong>yaratıcı düşünce</strong> gerektirmeyen çoğu meslek insanların elinden alınıp, bu işi daha iyi yapacak robotlara veriliyor.</p><p>Her ne kadar bu değişimden haz almasak da, bu değişim geleceğin bir parçası. Bu değişime çocuklarımızı hazırlamamız gerekiyor.</p><p>Bu proje ile çocuklara şu becerileri kazanmalarında yardımcı olacağız:</p><ul><li>Algoritmik düşünce</li><li>Mantıksal tasarım</li><li>Kritik karar alma</li><li>Yaratıcı düşünce</li><li>Süreklilik</li><li>Sabır</li><li>Kalıpların dışında düşünme</li><li>Farklı açılardan bakma</li></ul><p>Umarım bizim bu projeye başlarken hissettiğimiz gibi, siz de geleceğe umutla bakarsınız.</p>]]></content>
     
