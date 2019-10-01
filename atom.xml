@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wepod.github.io/"/>
-  <updated>2019-09-30T18:25:58.196Z</updated>
+  <updated>2019-10-01T11:13:59.901Z</updated>
   <id>https://wepod.github.io/</id>
   
   <author>
@@ -17,46 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Başladık</title>
-    <link href="https://wepod.github.io/blog/Basladik/"/>
-    <id>https://wepod.github.io/blog/Basladik/</id>
+    <title>Merhaba Dünya</title>
+    <link href="https://wepod.github.io/blog/Merhaba-Dunya/"/>
+    <id>https://wepod.github.io/blog/Merhaba-Dunya/</id>
     <published>2019-09-30T21:23:49.000Z</published>
-    <updated>2019-09-30T18:25:58.196Z</updated>
+    <updated>2019-10-01T11:13:59.901Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Merhabalar"><a href="#Merhabalar" class="headerlink" title="Merhabalar"></a>Merhabalar</h2><p>Nabersiniz millet? Biz bitirme projesi için blog yazmaya başladık.</p>]]></content>
+    <content type="html"><![CDATA[<p>Biz kimiz, amacımız ne ve neden bu kadar önemli?</p><a id="more"></a> <p>Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencileri olarak yapacak olduğumuz projenin amaçlarını, projede kullanılacak araçları ve projenin geliştirimini olabildiğince detaylı bir şekilde bu blogda paylaşmayı düşünüyoruz.</p><p>Bu proje, 4. sınıf öğrencileri <a href="https://github.com/atagulalan" target="_blank" rel="noopener">Ata Gülalan</a>, <a href="https://github.com/oguzturker8" target="_blank" rel="noopener">Oğuzhan Türker</a> ve <a href="https://github.com/fxy0" target="_blank" rel="noopener">Serdar Tunalı</a>, Araştırma Problemleri ve Bitirme Projesi dersleri kapsamında <a href="http://akademikpersonel.kocaeli.edu.tr/pinar.onaydurdu/" target="_blank" rel="noopener">Yar. Doç. Dr. Pınar ONAY DURDU</a> gözetmenliğinde yürütülecektir.</p><p>Bu projede temel amacımız, çocuklara algoritma öğreten bir yapı geliştirmek.</p><p>Bu projeyi web tarayıcı üzerinde gerçekleyerek çok daha büyük bir kitleyi hedefliyoruz. Son zamanlarda iyice yaygınlaşan <strong>PWA (Progressive Web Apps)</strong> kullanarak, internet olmasa dahi cep telefonları ve tabletlerde çalışır hale getirmeyi planlıyoruz. Böylece hareket halinde, uçakta veya internetin olmadığı herhangi bir yerde dahi uygulamayı kullanılabilir sağlayarak çocuklarımızın eğitimine katkı sağlamayı amaçlıyoruz.</p><h4 id="Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli"><a href="#Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli" class="headerlink" title="Neden çocuklara algoritma ve kodlama öğretmek önemli?"></a>Neden çocuklara algoritma ve kodlama öğretmek önemli?</h4><p>Gelecek, daha fazla yazılımcı bekliyor. Gün geçtikçe yazılımcılara olan ihtiyaç artıyor ve <strong>yaratıcı düşünce</strong> gerektirmeyen çoğu meslek insanların elinden alınıp, bu işi daha iyi yapacak robotlara veriliyor.</p><p>Her ne kadar bu değişimden haz almasak da, bu değişim geleceğin bir parçası. Bu değişime çocuklarımızı hazırlamamız gerekiyor.</p><p>Bu proje ile çocuklara şu becerileri kazanmalarında yardımcı olacağız:</p><ul><li>Algoritmik düşünce</li><li>Mantıksal tasarım</li><li>Kritik karar alma</li><li>Yaratıcı düşünce</li><li>Süreklilik</li><li>Sabır</li><li>Kalıpların dışında düşünme</li><li>Farklı açılardan bakma</li></ul><p>Umarım bizim bu projeye başlarken hissettiğimiz gibi, siz de geleceğe umutla bakarsınız.</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;Merhabalar&quot;&gt;&lt;a href=&quot;#Merhabalar&quot; class=&quot;headerlink&quot; title=&quot;Merhabalar&quot;&gt;&lt;/a&gt;Merhabalar&lt;/h2&gt;&lt;p&gt;Nabersiniz millet? Biz bitirme projesi
-      
+      &lt;p&gt;Biz kimiz, amacımız ne ve neden bu kadar önemli?&lt;/p&gt;
     
     </summary>
     
     
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://wepod.github.io/blog/hello-world/"/>
-    <id>https://wepod.github.io/blog/hello-world/</id>
-    <published>2019-09-30T18:25:58.196Z</published>
-    <updated>2019-09-30T18:25:58.196Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
+      <category term="atagulalan" scheme="https://wepod.github.io/tags/atagulalan/"/>
     
   </entry>
   
