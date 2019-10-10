@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wepod.github.io/"/>
-  <updated>2019-10-01T11:18:57.923Z</updated>
+  <updated>2019-10-10T00:37:59.298Z</updated>
   <id>https://wepod.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Progressive Web Apps</title>
+    <link href="https://wepod.github.io/blog/Progressive-Web-App/"/>
+    <id>https://wepod.github.io/blog/Progressive-Web-App/</id>
+    <published>2019-10-08T23:03:13.000Z</published>
+    <updated>2019-10-10T00:37:59.298Z</updated>
+    
+    <content type="html"><![CDATA[<p>Progressive Web Apps Nedir?, Nasıl Çalışır?, Özellikleri Nedir?</p><a id="more"></a><h4 id="Progressive-Web-Apss-PWA"><a href="#Progressive-Web-Apss-PWA" class="headerlink" title="Progressive Web Apss (PWA)"></a>Progressive Web Apss (PWA)</h4><p>Progressive Web App kısaca PWA, web sitelerinin görünümünü ve kullanıcı deneyimini, mobil uygulamalarla benzer seviyeye getirilen uygulamalara verilen isimdir. Bu yaklaşım ile tasarlanan web sitelerini mobil tarayıcıdan ziyaret ettiğinizde, sanki bir web sitesini değil bir mobil uygulamayı kullanıyormuş gibi bir deneyim yaşarsınız.</p><h4 id="PWA-Calisma-Mantigi"><a href="#PWA-Calisma-Mantigi" class="headerlink" title="PWA Çalışma Mantığı"></a>PWA Çalışma Mantığı</h4><p>PWA olarak tasarlanmış bir web sitesine mobil cihazlardaki güncel bir <strong>Chrome</strong> tarayıcı ile girdiğinizde, tarayıcı bu uygulamayı <strong>kısayol olarak ana ekranınıza eklemek ister misiniz</strong> diye soruyor. Eğer kabul ederseniz web sitesi artık telefonunuzun ekranının tamamını kaplıyor ve normal bir mobil uygulama gibi çalışmaya başlıyor. Burada çalışan yine bir web sayfası, ancak gerek tasarımsal gerekse kullanıcı deneyimi açısından doğru dizayn edilmiş bir PWA’da bunu farketmeniz çok zor oluyor.</p><p>PWA’nın önemli bileşeni <strong>Service Worker</strong> ise web içeriğinin mobil cihaza yüklenmesini sağlar. Böylece telefonunuz internete bağlı olmasa bile uygulamayı açtığınızda siz telefona aktarılan tüm içeriği ziyaret edebilirsiniz.</p><p><img src="http://devnot.com/wp-content/uploads/2017/05/progressive-web-apps-1.png" alt="Aliexpress PWA Kullanımı" title="Aliexpress PWA Kullanımı"></p><h4 id="PWA-Ozellikleri"><a href="#PWA-Ozellikleri" class="headerlink" title="PWA Özellikleri"></a>PWA Özellikleri</h4><ul><li>Service Worker ile yavaş internet hızına rağmen hızlıca yüklenme</li><li>Bir uygulama gibi telefonun ekranında ikon koyabilme</li><li>Full Screen sayfa gösterimi ve Splash Screen</li><li>Push Notification gönderme</li><li>Service Worker’in gelişimi ile offline mode’da çalıştığı gibi yavaş bağlantıda da sorunsuz çalışma</li><li>Kullanıcıyı Google Play Store’a yönlendirmeden tarayıcı üzerinden ana ekran ikonu ekleme</li><li>Uygulama navigasyonunu ve uygulama etkileşimini kullanabilme</li><li>Cep telefonunuza sadece kısayol ikonu eklediği için mobil uygulamaları yüklerken karşılaştığımız yetersiz hafıza sorunu ile karşılaşmama</li></ul><p>Kaynaklar : <a href="https://medium.com/@atamanonur/desktop-ve-mobil-web-in-geleceği-progressive-web-apps-379f3f4514a9" target="_blank" rel="noopener">atamanonur</a>, <a href="http://devnot.com/2017/progressive-web-apps-pwa-nedir/" target="_blank" rel="noopener">devnot</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Progressive Web Apps Nedir?, Nasıl Çalışır?, Özellikleri Nedir?&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="oguzturker8" scheme="https://wepod.github.io/tags/oguzturker8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Merhaba Dünya</title>
     <link href="https://wepod.github.io/blog/Merhaba-Dunya/"/>
     <id>https://wepod.github.io/blog/Merhaba-Dunya/</id>
     <published>2019-09-30T21:23:49.000Z</published>
-    <updated>2019-10-01T11:18:57.923Z</updated>
+    <updated>2019-10-10T00:37:59.298Z</updated>
     
     <content type="html"><![CDATA[<p>Biz kimiz, amacımız ne ve neden bu kadar önemli?</p><a id="more"></a> <p>Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencileri olarak yapacak olduğumuz projenin amaçlarını, projede kullanılacak araçları ve projenin geliştirimini olabildiğince detaylı bir şekilde bu blogda paylaşmayı düşünüyoruz.</p><p>Bu proje, 4. sınıf öğrencileri <a href="https://github.com/atagulalan" target="_blank" rel="noopener">Ata Gülalan</a>, <a href="https://github.com/oguzturker8" target="_blank" rel="noopener">Oğuzhan Türker</a> ve <a href="https://github.com/fxy0" target="_blank" rel="noopener">Serdar Tunalı</a>, Araştırma Problemleri ve Bitirme Projesi dersleri kapsamında <a href="http://akademikpersonel.kocaeli.edu.tr/pinar.onaydurdu/" target="_blank" rel="noopener">Yar. Doç. Dr. Pınar ONAY DURDU</a> gözetmenliğinde yürütülecektir.</p><p>Bu projede temel amacımız, çocuklara algoritma öğreten bir yapı geliştirmek.</p><p>Bu projeyi web tarayıcı üzerinde gerçekleyerek çok daha büyük bir kitleyi hedefliyoruz. Son zamanlarda iyice yaygınlaşan <strong>PWA (Progressive Web Apps)</strong> kullanarak, internet olmasa dahi cep telefonları ve tabletlerde çalışır hale getirmeyi planlıyoruz. Böylece hareket halinde, uçakta veya internetin olmadığı herhangi bir yerde dahi uygulamayı kullanılabilir sağlayarak çocuklarımızın eğitimine katkı sağlamayı amaçlıyoruz.</p><h4 id="Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli"><a href="#Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli" class="headerlink" title="Neden çocuklara algoritma ve kodlama öğretmek önemli?"></a>Neden çocuklara algoritma ve kodlama öğretmek önemli?</h4><p>Gelecek, daha fazla yazılımcı bekliyor. Gün geçtikçe yazılımcılara olan ihtiyaç artıyor ve <strong>yaratıcı düşünce</strong> gerektirmeyen çoğu meslek insanların elinden alınıp, bu işi daha iyi yapacak robotlara veriliyor.</p><p>Her ne kadar bu değişimden haz almasak da, bu değişim geleceğin bir parçası. Bu değişime çocuklarımızı hazırlamamız gerekiyor.</p><p>Bu proje ile çocuklara şu becerileri kazanmalarında yardımcı olacağız:</p><ul><li>Algoritmik düşünce</li><li>Mantıksal tasarım</li><li>Kritik karar alma</li><li>Yaratıcı düşünce</li><li>Süreklilik</li><li>Sabır</li><li>Kalıpların dışında düşünme</li><li>Farklı açılardan bakma</li></ul><p>Umarım bizim bu projeye başlarken hissettiğimiz gibi, siz de geleceğe umutla bakarsınız.</p>]]></content>
     
