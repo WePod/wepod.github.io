@@ -153,7 +153,7 @@ body {
       <div class="at-user">
         <div class="at-user__avatar"><img src="https://avatars3.githubusercontent.com/u/32413273?s=460&amp;v=4"/></div>
         <div class="at-user__name">Serdar Tunalı</div>
-        <div class="at-user__title">fxy0</div>
+        <div class="at-user__title">stunali</div>
       </div>
     </a>
   </div>
