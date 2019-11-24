@@ -1,6 +1,6 @@
 ---
 title: Node.Js
-date: 2019-09-30 21:49:49
+date: 2019-11-24 11:30:00
 tags: stunali
 ---
 Bu yazıda Node.js, npm ve node modülleri üzerinde duruldu.
