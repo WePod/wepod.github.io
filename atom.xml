@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wepod.github.io/"/>
-  <updated>2019-11-24T20:40:42.645Z</updated>
+  <updated>2019-11-25T19:45:16.372Z</updated>
   <id>https://wepod.github.io/</id>
   
   <author>
@@ -17,11 +17,103 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>POD | İkinci İş Paketi</title>
+    <link href="https://wepod.github.io/blog/Ikinci-Is-Paketi/"/>
+    <id>https://wepod.github.io/blog/Ikinci-Is-Paketi/</id>
+    <published>2019-11-25T22:34:26.000Z</published>
+    <updated>2019-11-25T19:45:16.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>POD Ön Rapor</p><iframe src="https://docs.google.com/document/d/e/2PACX-1vQuXSVGo5UgDetQEZEm9eG5Pm4yqGNA8whSHKVq7NvNKcXGk6heyJQd_MBGQ9u5_fY_abtKHf1sSquY/pub?embedded=true" style="overflow:hidden;height:100vh;width:100%; border : 1px solid gray;"></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;POD Ön Rapor&lt;/p&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQuXSVGo5UgDetQEZEm9eG5Pm4yqGNA8whSHKVq7NvNKcXGk6heyJQd_MBGQ9u5
+      
+    
+    </summary>
+    
+    
+    
+      <category term="oguzturker8" scheme="https://wepod.github.io/tags/oguzturker8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>POD | Tübitak 2209 A</title>
+    <link href="https://wepod.github.io/blog/2209A-Tubitak/"/>
+    <id>https://wepod.github.io/blog/2209A-Tubitak/</id>
+    <published>2019-11-25T22:14:56.000Z</published>
+    <updated>2019-11-25T19:45:16.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>POD Tübitak 2209 A</p><iframe src="https://docs.google.com/document/d/e/2PACX-1vQLU0lVmXSCa2M0Nj-8iCnFXRWS9ArRRKQpNKZGBmisFOkN-1GfsGmC3-Hi6YGHUw/pub?embedded=true" frameborder="0" style="overflow:hidden;height:100vh;width:100%; border : 1px solid gray;"></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;POD Tübitak 2209 A&lt;/p&gt;
+&lt;iframe src=&quot;https://docs.google.com/document/d/e/2PACX-1vQLU0lVmXSCa2M0Nj-8iCnFXRWS9ArRRKQpNKZGBmisFOkN-1GfsGmC3-
+      
+    
+    </summary>
+    
+    
+    
+      <category term="oguzturker8" scheme="https://wepod.github.io/tags/oguzturker8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kullanacağımız Teknolojiler</title>
+    <link href="https://wepod.github.io/blog/Kullanacagimiz-Teknolojiler/"/>
+    <id>https://wepod.github.io/blog/Kullanacagimiz-Teknolojiler/</id>
+    <published>2019-11-25T21:41:19.000Z</published>
+    <updated>2019-11-25T19:45:16.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>Teknoloji Seçimi, Ön Yüz, Sunucu Tarafı, Teknolojiler Hakkında</p><a id="more"></a><h4 id="Teknoloji-Secimi"><a href="#Teknoloji-Secimi" class="headerlink" title="Teknoloji Seçimi"></a>Teknoloji Seçimi</h4><p>Projemiz, bir web projesi olduğundan ön yüz tarafında kullanılabilecek teknolojiler sınırlı. Arka yüz tarafında ise sadece kullanıcı bilgileri tutulacağından, kompleks frameworkler yerine daha basit frameworkler kullanmayı planlıyoruz. Projemizin <strong>PWA</strong> olması gerektiğini düşünüyoruz. Projemizin tek bir dil üzerinden yazılması ile kodun, hangi yüzde çalışıldığına bakmadan, tüm proje üyeleri tarafından kolayca anlaşılacağını düşünüyoruz.</p><h4 id="On-Yuz-icin"><a href="#On-Yuz-icin" class="headerlink" title="Ön Yüz için"></a>Ön Yüz için</h4><ul><li><strong>HTML</strong> (Hyper Text Markup Language),</li><li><strong>CSS</strong> (Cascading Style Sheets),</li><li><strong>Vue.js</strong> (sunucu tarafında render etmek için <strong>Nuxt.js</strong>)</li></ul><h4 id="Sunucu-Tarafi-Icin"><a href="#Sunucu-Tarafi-Icin" class="headerlink" title="Sunucu Tarafı İçin"></a>Sunucu Tarafı İçin</h4><ul><li><strong>Node.js</strong>,</li><li><strong>MongoDB</strong></li></ul><h4 id="Kullanici-Deneyimi-Icin"><a href="#Kullanici-Deneyimi-Icin" class="headerlink" title="Kullanıcı Deneyimi İçin"></a>Kullanıcı Deneyimi İçin</h4><ul><li><strong>PWA</strong> (Progressive Web Apps),</li><li><strong>Betik Dili</strong>,</li><li><strong>Adobe Illustrator</strong>,<br>teknolojilerini kullanmaya karar verdik.</li></ul><h4 id="Kullanilacak-Teknolojiler-Hakkinda"><a href="#Kullanilacak-Teknolojiler-Hakkinda" class="headerlink" title="Kullanılacak Teknolojiler Hakkında"></a>Kullanılacak Teknolojiler Hakkında</h4><ul><li>Her tarayıcının okuyup anlayabildiği HTML standardı ile <strong>platform bağımsız</strong> bir uygulama geliştireceğiz. Böylelikle hangi tarayıcıdan veya hangi platformdan girdiğinize bakmadan, Chrome, Yandex Browser, Firefox, Opera,Safari gibi web tarayıcılarının okuyup anladığı bir uygulama tasarlayacağız.</li><li>CSS bir siteyi renklendirmeyi ve biçimlendirmeyi sağlar. HTML iskeletinin üzerine giydirilen bir kıyafet gibi düşünülebilir.</li><li>Vue.js kullanıcı arayüzleri ve tek sayfa uygulamalar inşa etmek için kullanılan <strong>MVC modeli</strong> açık kaynak Javascript framework’üdür. Bu çıktıyı sunucu tarafında çalıştırmak (render etmek) için Nuxt.js kullanacağız.</li><li>Ayrıca projemizi PWA yapacağız. Böylelikle projemiz her platformda (telefon, bilgisayar, tablet) kullanabilir olacak ve <strong>internet gerektirmeyecektir</strong>. Aynı bir uygulama gibi bilgisayarınıza indirebildiğiniz, ya da web üzerinden oynayabildiğiniz bir uygulama olacak.</li><li>Arka yüzde ise Node.js (Chrome v8 Javascript Engine) kullanarak <strong>server-side</strong> tarafında yine Javascript kodlarımızı çalıştıracağız. Böylece hem ön yüzde, hem de arka yüzde Javascript yazarak birden fazla dil karmaşıklığının önüne geçeceğiz.</li><li>Veritabanı olarak MongoDB kullanacağız. MongoDB, 2009 yılında geliştirilmiş açık kaynak kodlu bir <strong>NoSQL</strong> veritabanıdır.</li><li>Projeyi gerçekleştirirken kendi sözdizimi yapımızı oluşturacağız. Böylece kodu kopyalama, paylaşma gibi işlevler yapılmasının yanı sıra, satır satır yorumlayarak <strong>her aşamayı ekranda gösterebileceğiz</strong>.</li><li>Bölümleri, ekranları tasarlamak için Adobe Illustrator kullanıyoruz. Bu program, tasarladığımız bölümleri ve görselleri <strong>SVG</strong> formatında çıktı veriyor. Böylece hangi cihazda çalıştırıldığına bakmadan, görselleri yeniden boyutlandırdığımızda bulanık gözükmüyor ve görselleri eklerken sorun yaşamıyoruz.</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Teknoloji Seçimi, Ön Yüz, Sunucu Tarafı, Teknolojiler Hakkında&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="oguzturker8" scheme="https://wepod.github.io/tags/oguzturker8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Betik Dili</title>
+    <link href="https://wepod.github.io/blog/Betik-Dili/"/>
+    <id>https://wepod.github.io/blog/Betik-Dili/</id>
+    <published>2019-11-25T17:01:13.000Z</published>
+    <updated>2019-11-25T19:45:16.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>Betik Dili Nedir?, POD İçinde Betik Dili, Betik Dili Operasyon Kodları</p><a id="more"></a><h4 id="Betik-Dili-Nedir"><a href="#Betik-Dili-Nedir" class="headerlink" title="Betik Dili Nedir?"></a>Betik Dili Nedir?</h4><p>Betik Dili (Scripting/Script Language), <strong>betik yorumlamak</strong> için yazılmış özel çalışma-zamanı sistemlerinin (run-time environment) yorumlayabileceği programlama dilleridir. Diğer programlama dilleri ile yazılan kodlar makine koduna çevrilip çıkan program doğrudan çalıştırılırken betik kodları <strong>interpreter</strong> tarafından doğrudan okunur ve yorumlanarak işlemler interpreter’ın kendisi tarafından yapılır. Betik dillerinin en önemli farkı, derleme adımına ihtiyaç duymamasıdır. Bu diller, yorumlanarak çalışır.</p><p>Örneğin, normalde, bir C programının çalıştırmadan önce derlenmesi gerekirken JavaScript veya PHP gibi bir betik dili derlenmeden çalışabilir.</p><h4 id="POD-Icinde-Betik-Dili"><a href="#POD-Icinde-Betik-Dili" class="headerlink" title="POD İçinde Betik Dili"></a>POD İçinde Betik Dili</h4><p>Projeyi tasarlarken üzerinde durduğumuz en önemli şey, bu projenin, çocuklara programlama ve algoritma öğreten diğer hiçbir projeye benzememesini sağlamaktır. Bunun için diğer projelerdeki gibi iç içe geçen bloklar kullanmak yerine daha sade, problemi kısıtlı kaynaklarla çözmeye zorlayan bir betik dili geliştirmeye karar verdik. Projede kullanılacak olan betik dilinin ilk prototiplerini yapmış bulunmaktayız.</p><p>Aşağıdaki şekilde giriş olarak verilen her iki sayıyı karşılaştıran, eşitse çıkışa koyan bir program yazılmıştır. Bunun dışında sıfırları eleyen, her sayıyı sekizle çarpan, her iki sayıyı tersten yazan, sadece tek sayıları bulan programlar da yazmak mümkündür.</p><p><img src="/blog/Betik-Dili/betikdili.jpg" alt="Prototikte Bulunan Betik Dili" title="Prototikte Bulunan Betik Dili"></p><h4 id="Betik-Dili-Operasyon-Kodlari"><a href="#Betik-Dili-Operasyon-Kodlari" class="headerlink" title="Betik Dili Operasyon Kodları"></a>Betik Dili Operasyon Kodları</h4><p>Aşağıda, betik dilinden proje içinde kullanılan bazı <strong>operasyon kodu</strong> örnekleri verilmiştir:</p><p><strong>CME</strong> : Come. JMP veya JMZ’den dönüş için kullanılır.<br><strong>INP</strong> : Input. Girdi dizisinden bir eleman almak için kullanılır.<br><strong>OUT</strong> : Output. Çıktı dizisine eldeki elemanı vermek için kullanılır.<br><strong>CPY</strong> : Copy. Eldeki elemanı bellek kısmına kopyalamak için kullanılır.<br><strong>GET</strong> : Get. Bellekteki elemanı ele kopyalamak için kullanılır.<br><strong>SUB</strong> : Substract. Eldeki elemandan bellekteki elemanı çıkartmak için kullanılır.<br><strong>ADD</strong> : Add. Eldeki eleman ile bellekteki elemanı toplamak için kullanılır.<br><strong>JMP</strong> : Jump. Aynı etikete sahip CME satırına koşulsuz atlamak için kullanılır.<br><strong>JPZ</strong> : Jump If Zero. Aynı etikete sahip CME satırına eldeki eleman sıfır olmak koşuluyla atlamak için kullanılır.</p><p>Kaynaklar : <a href="https://tr.wikipedia.org/wiki/Betik_dili" target="_blank" rel="noopener">Wikipedia</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Betik Dili Nedir?, POD İçinde Betik Dili, Betik Dili Operasyon Kodları&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="oguzturker8" scheme="https://wepod.github.io/tags/oguzturker8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Node.Js</title>
     <link href="https://wepod.github.io/blog/Node-Js/"/>
     <id>https://wepod.github.io/blog/Node-Js/</id>
     <published>2019-11-24T11:30:00.000Z</published>
-    <updated>2019-11-24T20:40:42.645Z</updated>
+    <updated>2019-11-25T19:45:16.372Z</updated>
     
     <content type="html"><![CDATA[<p>Bu yazıda Node.js, npm ve node modülleri üzerinde duruldu.</p><a id="more"></a><p>Node.js JavaScript ekosisteminin en çok kullanılan frameworklerinden biridir.<br>Node.js’in gelmesi ile birlikte artık JavaScript yazarak backend geliştirme olanağına sahip olduk.<br>Bundan önce JavaScript kodlarını sadece tarayıcı tarafında çalıştırabiliyorduk.<br>Node.js “Chrome’un v8 JavaScript Engine” kullanarak server-side tarafında JavaScript kodlarımızı çalıştırır.<br>Bu engine JavaScript kodlarımızı alır ve makine koduna dönüştürür. </p><h2 id="Neden-Node-js"><a href="#Neden-Node-js" class="headerlink" title="Neden Node.js"></a>Neden Node.js</h2><p>Node.js olaya dayalı, asenkron fonksiyonlar kullanır ve bu onu hızlı ve verimli yapar.<br>Node.js dünyanın en büyük açık kaynak kodlu (npm) paketlerine sahiptir. Bu bize modülerlik sağlar.</p><h2 id="npm"><a href="#npm" class="headerlink" title="npm"></a>npm</h2><p>Npm bir paket yöneticisidir. Bu paket yöneticisini kullanarak problemlerinizi çözebilirsiniz. Açık kaynak yazılımdır.<br>Bu paket yöneticisi hızlı ve verimli kod yazmayı sağlar.</p><h2 id="Node-modulleri"><a href="#Node-modulleri" class="headerlink" title="Node modülleri"></a>Node modülleri</h2><p>Node modülleri, başka kodu etkilemeyen, yeniden kullanılabilir kod bloklarıdır.<br>Kendi modüllerinizi yazabilir ve çeşitli uygulamalarda kullanabilirsiniz. Node.js, daha fazla kurulum yapmadan kullanabileceğiniz bir dizi yerleşik modüle sahiptir.<br>Bir node modülü çıkartmak için yapmanız gereken tek şey <code>module.exports</code> kullanmaktır.<br>Bu kodu, farklı bir projede veye kod bloğunda <code>require</code> yardımıyla çalıştırabilirsiniz.<br>Bu sistem projede modülerlik sağlar, projenin maliyetini düşürür ve daha hızlı çalışmanıza olanak tanır.</p><p>Günümüzde Linkedin Node.js teknolojisine geçmiştir. Node.js’e geçişten sonra sunucu maaliyeti 1/10 düşmüştür.<br>Node.js kullanan bir başka firma da PayPal’dır. </p>]]></content>
     
@@ -42,7 +134,7 @@
     <link href="https://wepod.github.io/blog/Progressive-Web-App/"/>
     <id>https://wepod.github.io/blog/Progressive-Web-App/</id>
     <published>2019-10-08T23:03:13.000Z</published>
-    <updated>2019-11-24T20:40:42.645Z</updated>
+    <updated>2019-11-25T19:45:16.372Z</updated>
     
     <content type="html"><![CDATA[<p>Progressive Web Apps Nedir?, Nasıl Çalışır?, Özellikleri Nedir?</p><a id="more"></a><h4 id="Progressive-Web-Apss-PWA"><a href="#Progressive-Web-Apss-PWA" class="headerlink" title="Progressive Web Apss (PWA)"></a>Progressive Web Apss (PWA)</h4><p>Progressive Web App kısaca PWA, web sitelerinin görünümünü ve kullanıcı deneyimini, mobil uygulamalarla benzer seviyeye getirilen uygulamalara verilen isimdir. Bu yaklaşım ile tasarlanan web sitelerini mobil tarayıcıdan ziyaret ettiğinizde, sanki bir web sitesini değil bir mobil uygulamayı kullanıyormuş gibi bir deneyim yaşarsınız.</p><h4 id="PWA-Calisma-Mantigi"><a href="#PWA-Calisma-Mantigi" class="headerlink" title="PWA Çalışma Mantığı"></a>PWA Çalışma Mantığı</h4><p>PWA olarak tasarlanmış bir web sitesine mobil cihazlardaki güncel bir <strong>Chrome</strong> tarayıcı ile girdiğinizde, tarayıcı bu uygulamayı <strong>kısayol olarak ana ekranınıza eklemek ister misiniz</strong> diye soruyor. Eğer kabul ederseniz web sitesi artık telefonunuzun ekranının tamamını kaplıyor ve normal bir mobil uygulama gibi çalışmaya başlıyor. Burada çalışan yine bir web sayfası, ancak gerek tasarımsal gerekse kullanıcı deneyimi açısından doğru dizayn edilmiş bir PWA’da bunu farketmeniz çok zor oluyor.</p><p>PWA’nın önemli bileşeni <strong>Service Worker</strong> ise web içeriğinin mobil cihaza yüklenmesini sağlar. Böylece telefonunuz internete bağlı olmasa bile uygulamayı açtığınızda siz telefona aktarılan tüm içeriği ziyaret edebilirsiniz.</p><p><img src="http://devnot.com/wp-content/uploads/2017/05/progressive-web-apps-1.png" alt="Aliexpress PWA Kullanımı" title="Aliexpress PWA Kullanımı"></p><h4 id="PWA-Ozellikleri"><a href="#PWA-Ozellikleri" class="headerlink" title="PWA Özellikleri"></a>PWA Özellikleri</h4><ul><li>Service Worker ile yavaş internet hızına rağmen hızlıca yüklenme</li><li>Bir uygulama gibi telefonun ekranında ikon koyabilme</li><li>Full Screen sayfa gösterimi ve Splash Screen</li><li>Push Notification gönderme</li><li>Service Worker’in gelişimi ile offline mode’da çalıştığı gibi yavaş bağlantıda da sorunsuz çalışma</li><li>Kullanıcıyı Google Play Store’a yönlendirmeden tarayıcı üzerinden ana ekran ikonu ekleme</li><li>Uygulama navigasyonunu ve uygulama etkileşimini kullanabilme</li><li>Cep telefonunuza sadece kısayol ikonu eklediği için mobil uygulamaları yüklerken karşılaştığımız yetersiz hafıza sorunu ile karşılaşmama</li></ul><p>Kaynaklar : <a href="https://medium.com/@atamanonur/desktop-ve-mobil-web-in-geleceği-progressive-web-apps-379f3f4514a9" target="_blank" rel="noopener">atamanonur</a>, <a href="http://devnot.com/2017/progressive-web-apps-pwa-nedir/" target="_blank" rel="noopener">devnot</a></p>]]></content>
     
@@ -63,7 +155,7 @@
     <link href="https://wepod.github.io/blog/Merhaba-Dunya/"/>
     <id>https://wepod.github.io/blog/Merhaba-Dunya/</id>
     <published>2019-09-30T21:23:49.000Z</published>
-    <updated>2019-11-24T20:40:42.645Z</updated>
+    <updated>2019-11-25T19:45:16.372Z</updated>
     
     <content type="html"><![CDATA[<p>Biz kimiz, amacımız ne ve neden bu kadar önemli?</p><a id="more"></a> <p>Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencileri olarak yapacak olduğumuz projenin amaçlarını, projede kullanılacak araçları ve projenin geliştirimini olabildiğince detaylı bir şekilde bu blogda paylaşmayı düşünüyoruz.</p><p>Bu proje, 4. sınıf öğrencileri <a href="https://github.com/atagulalan" target="_blank" rel="noopener">Ata Gülalan</a>, <a href="https://github.com/oguzturker8" target="_blank" rel="noopener">Oğuzhan Türker</a> ve <a href="https://github.com/fxy0" target="_blank" rel="noopener">Serdar Tunalı</a>, Araştırma Problemleri ve Bitirme Projesi dersleri kapsamında <a href="http://akademikpersonel.kocaeli.edu.tr/pinar.onaydurdu/" target="_blank" rel="noopener">Yar. Doç. Dr. Pınar ONAY DURDU</a> gözetmenliğinde yürütülecektir.</p><p>Bu projede temel amacımız, çocuklara algoritma öğreten bir yapı geliştirmek.</p><p>Bu projeyi web tarayıcı üzerinde gerçekleyerek çok daha büyük bir kitleyi hedefliyoruz. Son zamanlarda iyice yaygınlaşan <strong>PWA (Progressive Web Apps)</strong> kullanarak, internet olmasa dahi cep telefonları ve tabletlerde çalışır hale getirmeyi planlıyoruz. Böylece hareket halinde, uçakta veya internetin olmadığı herhangi bir yerde dahi uygulamayı kullanılabilir sağlayarak çocuklarımızın eğitimine katkı sağlamayı amaçlıyoruz.</p><h4 id="Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli"><a href="#Neden-cocuklara-algoritma-ve-kodlama-ogretmek-onemli" class="headerlink" title="Neden çocuklara algoritma ve kodlama öğretmek önemli?"></a>Neden çocuklara algoritma ve kodlama öğretmek önemli?</h4><p>Gelecek, daha fazla yazılımcı bekliyor. Gün geçtikçe yazılımcılara olan ihtiyaç artıyor ve <strong>yaratıcı düşünce</strong> gerektirmeyen çoğu meslek insanların elinden alınıp, bu işi daha iyi yapacak robotlara veriliyor.</p><p>Her ne kadar bu değişimden haz almasak da, bu değişim geleceğin bir parçası. Bu değişime çocuklarımızı hazırlamamız gerekiyor.</p><p>Bu proje ile çocuklara şu becerileri kazanmalarında yardımcı olacağız:</p><ul><li>Algoritmik düşünce</li><li>Mantıksal tasarım</li><li>Kritik karar alma</li><li>Yaratıcı düşünce</li><li>Süreklilik</li><li>Sabır</li><li>Kalıpların dışında düşünme</li><li>Farklı açılardan bakma</li></ul><p>Umarım bizim bu projeye başlarken hissettiğimiz gibi, siz de geleceğe umutla bakarsınız.</p>]]></content>
     
