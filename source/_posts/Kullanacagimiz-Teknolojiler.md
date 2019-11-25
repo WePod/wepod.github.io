@@ -20,13 +20,13 @@ Projemiz, bir web projesi olduğundan ön yüz tarafında kullanılabilecek tekn
 
 #### Sunucu Tarafı İçin
 
-- **Node.js**,
+- [**Node.js**](https://wepod.github.io/blog/Node-Js/),
 - **MongoDB**
 
 #### Kullanıcı Deneyimi İçin
 
-- **PWA** (Progressive Web Apps),
-- **Betik Dili**,
+- [**PWA**](https://wepod.github.io/blog/Progressive-Web-App/) (Progressive Web Apps), ,
+- [**Betik Dili**](https://wepod.github.io/blog/Betik-Dili/),
 - **Adobe Illustrator**,
   teknolojilerini kullanmaya karar verdik.
 
