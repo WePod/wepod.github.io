@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="tr"><head><meta name="generator" content="Hexo 3.9.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index, follow"><title>Prettier Nedir? • Pod Blog</title><meta name="description" content="Prettier Nedir? - Ata Gülalan"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="https://unpkg.com/nanoreset@3.0.1/nanoreset.min.css"><link rel="stylesheet" href="/css/theme.css"><link rel="search" type="application/opensearchdescription+xml" href="/atom.xml" title="Pod Blog"></head><body><div class="wrap" id="barba-wrapper"><header><h1 class="branding"><a href="/" title="Pod Blog"><img class="logo-image" src="/logo.svg" alt="logo"></a></h1><ul class="nav nav-list"><li class="nav-list-item"><a class="nav-list-link no-barba" href="/" target="_self">ANASAYFA</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="/takim" target="_self">TAKIM</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="https://github.com/wepod" target="_blank">GITHUB</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="/atom.xml" target="_self">RSS</a></li></ul></header><div class="barba-container"><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">Prettier Nedir?</h1><div class="post-info"><a></a>27 Kasım 2019<a class="post-tag" href="/tags/atagulalan" title="atagulalan">atagulalan</a></div><div class="post-content"><p>Prettier nedir? Standartın önemi nedir? Temiz kod yaklaşımı.</p>
+<a id="more"></a>
+
+<h3 id="Prettier-Nedir"><a href="#Prettier-Nedir" class="headerlink" title="Prettier Nedir?"></a>Prettier Nedir?</h3><p>Prettier, aşağıdakileri destekleyen bir kod formatlayıcısıdır:</p>
+<ul>
+<li>JavaScript, including ES2017</li>
+<li>JSX</li>
+<li>Angular</li>
+<li>Vue</li>
+<li>Flow</li>
+<li>TypeScript</li>
+<li>CSS, Less, and SCSS</li>
+<li>HTML</li>
+<li>JSON</li>
+<li>GraphQL</li>
+<li>Markdown, including GFM and MDX</li>
+<li>YAML</li>
+</ul>
+<blockquote>
+<p>Prettier, Tüm orijinal stilleri kaldırır ve gönderilen tüm kodların tutarlı bir stilde uyumlu olmasını sağlar. Yani kodunuzu alır, satır uzunluğunu hesaba katarak sıfırdan yazdırır.</p>
+</blockquote>
+<p>Örneğin aşağıdaki kod bloğunu inceleyelim:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">foo(arg1, arg2, arg3, arg4);</span><br></pre></td></tr></table></figure>
+
+<p>Bu blok, tek bir satırda okunabilir. Bu yüzden stillendirmeye ihtiyacı yok. Ancak aşağıdaki kodda bu ihtiyacın doğduğunu görüyoruz:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">foo(reallyLongArg(), omgSoManyParameters(), IShouldRefactorThis(), isThereSeriouslyAnotherOne());</span><br></pre></td></tr></table></figure>
+
+<p>Bu blok çok uzun olduğundan bunu ayırmamız gerekiyor. Prettier, sizin için bu şekilde yeniden yazıyor:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">foo(</span><br><span class="line">  reallyLongArg(),</span><br><span class="line">  omgSoManyParameters(),</span><br><span class="line">  IShouldRefactorThis(),</span><br><span class="line">  isThereSeriouslyAnotherOne()</span><br><span class="line">);</span><br></pre></td></tr></table></figure>
+
+<p>Prettier, kod tabanınızın tamamında tutarlı bir kod stili (örn. AST’yi etkilemeyecek kod formatı) uygular.</p>
+<h3 id="Standartin-Onemi"><a href="#Standartin-Onemi" class="headerlink" title="Standartın Önemi"></a>Standartın Önemi</h3><p>Standartın önemini bir örnek ile açıklayabilirim:</p>
+<iframe style="width:100%;height: 630px;" height="630" scrolling="no" title="Standard-agnostic clock" src="https://codepen.io/siddhant-k-code/embed/OJJGNLJ?height=627&theme-id=light&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/siddhant-k-code/pen/OJJGNLJ" target="_blank" rel="noopener">Standard-agnostic clock</a> by Siddhant Khare
+  (<a href="https://codepen.io/siddhant-k-code" target="_blank" rel="noopener">@siddhant-k-code</a>) on <a href="https://codepen.io" target="_blank" rel="noopener">CodePen</a>.
+</iframe>
+
+<p>Gördüğünüz gibi, saat okumak gibi basit bir iş, standart olmadığında bir eziyete dönüşüyor. Kod için de aynı, başka birinin standartlara uymayan kodunu okuduğunuz zaman, buna alışmak zaman alıyor. Zaman ise, bildiğiniz gibi, projelerdeki en önemli kavram.</p>
+<h3 id="Ozgurluk"><a href="#Ozgurluk" class="headerlink" title="Özgürlük"></a>Özgürlük</h3><p>Prettier, aslında istediğiniz şekilde kod yazmayı kolaylaştırıyor, çünkü daha sonra anında doğru bir şekilde formatlıyor. Böylece takımınızla birlikte, birleşik bir kod yazabiliyorsunuz.</p>
+<p>Noktalı virgül yazmayı umursamıyor musunuz? Aşağıdakini yazın, Prettier sizin için zaten formatlıyor.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">function foo() &#123;</span><br><span class="line">  var x = 5</span><br><span class="line">  var y = 6</span><br><span class="line">  var z = 7</span><br><span class="line">  return x + y + z</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>Bir takımda çalışırken sürtünmeyi azaltmak çok önemli. Bu sorun, özellikle büyük takımlarda gerçekleşiyor. Tamamen sürtünmeden kaçınmak imkansız, ancak daha iyi çalışmayı kolaylaştırmak için Prettier gibi araçlardan faydalanabilirsiniz.</p>
+<p>Kaynaklar: <a href="https://prettier.io/docs/en/index.html" target="_blank" rel="noopener">Prettier Docs</a> <a href="https://jlongster.com/A-Prettier-Formatter" target="_blank" rel="noopener">James Long</a> <a href="https://codepen.io/siddhant-k-code/pen/OJJGNLJ" target="_blank" rel="noopener">Siddhant Khare</a></p>
+</div></article></div></main><footer><div class="paginator"><a class="next" href="/blog/Ogrenme-Teorileri/">sonraki</a></div><div class="copyright"><p>&copy; 2019 <a href="/">POD Team</a><br>Powered by <a href="https://hexo.io/" rel="noreferrer" target="_blank">Hexo</a></p></div></footer></div></div><script>var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-149031051-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();</script><script src="https://cdnjs.cloudflare.com/ajax/libs/barba.js/1.0.0/barba.min.js"></script><script>document.addEventListener('DOMContentLoaded', function() {
+    Barba.Pjax.start()
+})</script></body></html>
