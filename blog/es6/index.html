@@ -1,0 +1,85 @@
+<!DOCTYPE html><html lang="tr"><head><meta name="generator" content="Hexo 3.9.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index, follow"><title>EcmaScript6 ile gelen değişiklikler • Pod Blog</title><meta name="description" content="EcmaScript6 ile gelen değişiklikler - Ata Gülalan"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="https://unpkg.com/nanoreset@3.0.1/nanoreset.min.css"><link rel="stylesheet" href="/css/theme.css"><link rel="search" type="application/opensearchdescription+xml" href="/atom.xml" title="Pod Blog"></head><body><div class="wrap" id="barba-wrapper"><header><h1 class="branding"><a href="/" title="Pod Blog"><img class="logo-image" src="/logo.svg" alt="logo"></a></h1><ul class="nav nav-list"><li class="nav-list-item"><a class="nav-list-link no-barba" href="/" target="_self">ANASAYFA</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="/takim" target="_self">TAKIM</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="https://github.com/wepod" target="_blank">GITHUB</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="/atom.xml" target="_self">RSS</a></li></ul></header><div class="barba-container"><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">EcmaScript6 ile gelen değişiklikler</h1><div class="post-info"><a></a>12 Ocak 2019<a class="post-tag" href="/tags/stunali" title="stunali">stunali</a></div><div class="post-content"><h2 id="EcmaScript-Nedir"><a href="#EcmaScript-Nedir" class="headerlink" title="EcmaScript Nedir ?"></a>EcmaScript Nedir ?</h2><p>Zaman içerisinde JavaScript birçok evrim geçirdi.İlk zamanlarda Javascript EcmaScript ismini almıştı.Artık EcmaScript JavaScript’in kurallarını belirleyen standart haline geldi.EcmaScript6 Haziran 2015`te yayınlandı<br>EcmaScript6 ile birlikte kod yazmayı kolaylaştıran birçok yenilik geldi.</p>
+<p><strong>Const ve Let</strong></p>
+<p>EcmaScript2015 `te değişkenleri sadece var ile tanımlayabiliyorduk.EcmaScript6 ile gelen yenilikler ile const ve let aracılığı ile değişkenlerimizi tanımlayabiliriz.</p>
+<pre><code>const PI = 3.141593 
+let name=&quot;Serdar&quot;</code></pre><p> <strong>Block Scope and Variables and  Functions</strong> </p>
+<p>EcmaScript6’den önce değişkenler fonksiyon scoped`tu.EcmaScript6 ile birlikte gelen güncelleme ile let ve const ile tanımlanan değişkenler blok scope oldu.</p>
+<p> <strong>Arrow Functions</strong></p>
+<p>EcmaScript6 ile birlikte fonksiyon tanımına yeni bir sözdizimi getirildi.Artık daha kısa bir sözdizimi ile fonksiyon tanımlayabiliriz.</p>
+<p><code>hello = () =&gt; {  
+return  &quot;Hello World!&quot;;  
+}</code></p>
+<p> <strong>Varsayılan Fonksiyon Parametleri</strong></p>
+<p>EcmaScript6 ile gelen özelliklerden bir taneside artık fonksiyonlarda varsayılan parametler kullanabiliriz.</p>
+<pre><code>function multiply(a, b = 1) {
+  return a * b;
+}
+
+console.log(multiply(5, 2));
+// expected output: 10
+
+console.log(multiply(5));
+// expected output: 5</code></pre><p><strong>Class sözdizimi</strong></p>
+<p>ES6 ile gelen yeniliklerden bir taneside class sözdizimi.Java , C++ , C# dillerinde olduğu gibi class anahtar kelimesini kullanarak sınıf oluşturabiliyoruz.</p>
+<pre><code>class Polygon {
+  constructor(height, width) {
+    this.area = height * width;
+  }
+}
+
+console.log(new Polygon(4,3).area);
+// expected output: 12</code></pre><p><strong>Kalıtım</strong></p>
+<p>EcmaScript6 ile gelen yenilikle birlikte diğer dillerde olduğu gibi (Java,C#,C++) extends anahtar kelimesi kullanılarak kalıtım yapılabilir.</p>
+<pre><code>class Animal { 
+  constructor(name) {
+    this.name = name;
+  }
+
+  speak() {
+    console.log(this.name + &apos; makes a noise.&apos;);
+  }
+}
+
+class Dog extends Animal {
+  speak() {
+    console.log(this.name + &apos; barks.&apos;);
+  }
+}</code></pre><p><strong>Promise</strong> </p>
+<p>JavaScript asenkron çalışan bir programlama dilidir.EcmaScript6dan önce callback fonksiyonları ile asenkron fonksiyonları yönetiyorduk.EcmaScript6 ile birlikte asenkron fonksiyonlar promise sözdizimi ile yönetilmeye başladı.</p>
+<pre><code>new Promise(function(resolve, reject) { ... });</code></pre><p> <strong>Destructing</strong><br>EcmaScript6 ile birlikte Destructing özelliğide gelmiştir.Destructing sayesinde dizileri ve objeleri daha kolay bir şekilde parçalara ayırabiliyoruz.Bu sayede daha okunabilir kod yazabiliriz.</p>
+<pre><code>var a, b, rest;
+[a, b] = [10, 20];
+
+console.log(a);
+// expected output: 10
+
+console.log(b);
+// expected output: 20
+
+[a, b, ...rest] = [10, 20, 30, 40, 50];
+
+console.log(rest);
+// expected output: [30,40,50]</code></pre><p><strong>Template Literal</strong></p>
+<p>Template literals stringleri deklarasyon etmek için yeni bir yol sağlıyor.`` (backstick) içersine yazdığınız ${} sayesinde stringler üzerinde istediğiniz işlemleri yapabilirsiniz.</p>
+<pre><code>`string text`
+
+`string text line 1
+ string text line 2`
+
+`string text ${expression} string text`
+
+tag `string text ${expression} string text`</code></pre><p><strong>Find()</strong><br>Array.Find()  methodu test fonksiyonunu karşılayan ilk elamanı döndürür.</p>
+<pre><code>const array1 = [5, 12, 8, 130, 44];
+
+const found = array1.find(element =&gt; element &gt; 10);</code></pre><p> <strong>findIndex()</strong><br>Array.FindIndex()  methodu test fonksiyonunu karşılayan ilk elamanının index değerini döndürür.</p>
+<pre><code>arr.findIndex(callback[, thisArg])</code></pre></div></article></div></main><footer><div class="paginator"><a class="prev" href="/blog/Pod-Nedir/">daha yeni</a></div><div class="copyright"><p>&copy; 2019 <a href="/">POD Team</a><br>Powered by <a href="https://hexo.io/" rel="noreferrer" target="_blank">Hexo</a></p></div></footer></div></div><script>var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-149031051-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();</script><script src="https://cdnjs.cloudflare.com/ajax/libs/barba.js/1.0.0/barba.min.js"></script><script>document.addEventListener('DOMContentLoaded', function() {
+    Barba.Pjax.start()
+})</script></body></html>
