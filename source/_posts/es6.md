@@ -3,6 +3,8 @@ title: EcmaScript6 ile gelen değişiklikler
 date: 01.12.2019
 tags: stunali
 ---
+Bu yazıda EcmaScript6 ile gelen değişiklikler üzerinde duruldus
+<!-- more -->
 
 
 ## EcmaScript Nedir ?
@@ -144,3 +146,4 @@ Array.FindIndex()  methodu test fonksiyonunu karşılayan ilk elamanının index
 
 
 
+Kaynaklar : [JavaScript - MDN - Mozilla](https://developer.mozilla.org/tr/docs/Web/JavaScript)
