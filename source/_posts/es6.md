@@ -1,9 +1,9 @@
 ﻿---
 title: EcmaScript6 ile gelen değişiklikler
-date: 01.12.2019
+date: 2019-12-01 22:14:56
 tags: stunali
 ---
-Bu yazıda EcmaScript6 ile gelen değişiklikler üzerinde duruldus
+Bu yazıda EcmaScript6 ile gelen değişiklikler üzerinde duruldu
 <!-- more -->
 
 
