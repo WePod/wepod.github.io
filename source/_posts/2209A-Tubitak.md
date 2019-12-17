@@ -1,10 +1,10 @@
 ---
 title: POD | Tübitak 2209-A
 date: 2019-11-25 22:14:56
-tags: 
-- atagulalan
-- oguzturker8
-- stunali
+tags:
+  - atagulalan
+  - oguzturker8
+  - stunali
 ---
 
 POD Projesi, 1. İş Paketi, Tübitak 2209-A
