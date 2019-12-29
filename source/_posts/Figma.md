@@ -12,8 +12,6 @@ Figma Nedir?, Figma'nın Özellikleri, Başlarken
 
 > Figma, Linux, Mac OS ve Windows'ta çalışabilen bir bulut tabanlı tasarım aracıdır. Platform, kullanıcılarının tasarım oluşturmasını, prototip üretmesini ve tek bir araç içinde geri bildirim almasını sağlar.
 
-NuxtJS , VueJS geliştiricileri için kolay ve hızlı web uygulamaları geliştirmek için altyapı oluşturmayı hedefler. **Universal Vue Application** (Sunucu Taraflı Rendering) üretmemize imkan tanır. Dosya ve klasör yapısını kullanarak konfigürasyon yapar.
-
 ## Figma'nın Özellikleri
 
 - **Web tabanlıdır.** Figma tarayıcınızda çalışır ve bunları projeleriniz üzerinde bilgisayarınıza ayrı dosyalar olarak kaydetmenize gerek kalmadan çalışabilirsiniz. Tüm düzenlemeler otomatik olarak bulutunuza kaydedilir. Ancak unutmayın, tüm değişiklikleri kaydetmek için aktif bir internet bağlantısına ihtiyacınız olduğunu unutmayın.
