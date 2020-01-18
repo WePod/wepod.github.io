@@ -10,7 +10,7 @@ Docker Nedir?, Klasik Sanal Makine vs Docker
 
 #### Docker Nedir
 
-Docker 2013 yılında DotCloud şirketi tarafından çıkarılmıştır. Açık kaynak kodlu bir projedir. Docker, konteyner teknolojisi kullanarak uygulama oluşturma, dağıtma ve çalıştırma işlemlerini kolaylaştırmak için tasarlanmış bir araçtır. Geliştiriciler ve DevOps mühendisleri tarafından kullanılabilir. Konteyner teknolojisi yeni gelişmiş bir teknoloji olmayıp 2008`de ortaya çıkmıştır. LXC yapısı Linux’a eklenmiştir. Docker bu teknolojiye dayanır. Docker LXC ile yapılan işlemleri daha kolay, hızlı bir şekilde yapmamızı sağlar. Oracle VM VirtualBox, VMWare gibi sanallaştırma teknolojilerinden farkı akıllı kaynak yönetimi, daha kolay yönetilebilir, daha güvenli bir teknoloji sağlamasıdır (Şekil 3.1). Bulut sistemleri ile uyumlu bir şekilde çalışılabilir ve yönetilebilir. İzole edilmiş yapıları sayesinde güvenlik bakımından da diğer teknolojilere göre avantajları vardır.
+Docker 2013 yılında DotCloud şirketi tarafından çıkarılmıştır. Açık kaynak kodlu bir projedir. Docker, konteyner teknolojisi kullanarak uygulama oluşturma, dağıtma ve çalıştırma işlemlerini kolaylaştırmak için tasarlanmış bir araçtır. Geliştiriciler ve DevOps mühendisleri tarafından kullanılabilir. Konteyner teknolojisi yeni gelişmiş bir teknoloji olmayıp 2008`de ortaya çıkmıştır. LXC yapısı Linux’a eklenmiştir. Docker bu teknolojiye dayanır. Docker LXC ile yapılan işlemleri daha kolay, hızlı bir şekilde yapmamızı sağlar. Oracle VM VirtualBox, VMWare gibi sanallaştırma teknolojilerinden farkı akıllı kaynak yönetimi, daha kolay yönetilebilir, daha güvenli bir teknoloji sağlamasıdır. Bulut sistemleri ile uyumlu bir şekilde çalışılabilir ve yönetilebilir. İzole edilmiş yapıları sayesinde güvenlik bakımından da diğer teknolojilere göre avantajları vardır.
 
 ![Docker Yapısı](./Docker/docker-yapisi.png)
 
@@ -21,3 +21,5 @@ VM’ler her bir çalışan örneği için full bir işletim sistemine sahiptir.
 ![Sanal  Makine vs Docker](./Docker/sanal-makine-vs-docker.png)
 
 Docker Hypervisor ve tam yüklü bir işletim sistemi kullanmadığından maliyet kazancı çok büyüktür. Bir diğeri ise versiyonlamaya yatkınlığı. Docker’ın en vurucu özelliklerinden biride versiyonlanabilme özelliği. Docker, kullandığı işletim sistemi imajlarının farklı hallerini kayıt altında tutmamıza olanak sağlar.
+
+Kaynaklar : [umutakkaya](https://www.mediaclick.com.tr/blog/docker-nedir-docker-ne-ise-yarar)
