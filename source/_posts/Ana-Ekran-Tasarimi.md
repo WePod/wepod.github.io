@@ -17,10 +17,10 @@ Projenin ana ekran tasarımında kaydırdıkça gözüken 4 bölüm bulunmaktad�
 
 > Bunu yapmamızdaki amaç, çocukların sayfaya olan ilgisini çekmek ve daha sonrasında ise bu ilgiyi yöneterek eğlenceli bir şekilde bilgi edinmelerini sağlamaktır.
 
-Ana ekranda kullanılan ilk “POD”, oyuna başlandığında ilk ekilecek olan _bitkiyi_ ifade eder. Resimlerden de gördüğünüz üzere, ekranda bir çok hareketli nesne bulunmaktadır. Örneğin paranın dönüşü, robotun uçuşu, bulutların süzülüşü ve kutuların ilerleyişi gibi. Bu animasyonlar, kullanıcıyı sıkmadan bilgiyi aktarmak ve sayfada geçirilen süreyi arttırmak için tasarlanan küçük bileşenlerdir.
+Ana ekranda kullanılan ilk “POD”, oyuna başlandığında ilk ekilecek olan **bitkiyi** ifade eder. Resimlerden de gördüğünüz üzere, ekranda bir çok hareketli nesne bulunmaktadır. Örneğin paranın dönüşü, robotun uçuşu, bulutların süzülüşü ve kutuların ilerleyişi gibi. Bu animasyonlar, kullanıcıyı sıkmadan bilgiyi aktarmak ve sayfada geçirilen süreyi arttırmak için tasarlanan küçük bileşenlerdir.
 
 ![Ana Ekran Tasarımı](./Ana-Ekran-Tasarimi/anaEkranTasarimi.jpg "Ana Ekran Tasarımı")
 
-> [Site Adresi](https://pod.xava.me/)
+#### [Site Adresi](https://pod.xava.me/)
 
 > Not: Mobil versiyon sitede şu anlık çalışmamaktadır.

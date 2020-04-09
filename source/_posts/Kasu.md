@@ -13,9 +13,9 @@ Kasu, Kasu Tasarım, Kasu Animasyon
 
 #### Kasu Tasarım
 
-> Bu hafta oyunun ana karakteri olan _Kasu_ için bir component tanımladık.
+> Bu hafta oyunun ana karakteri olan **Kasu** için bir component tanımladık.
 
-Bu komponentin içerisine dinamik olarak _prop_ alabilen alt komponentler tanımladık. Böylece üst komponentte bir prop değişimini alt komponente atarak _state management_’i kolaylaştırdık.
+Bu komponentin içerisine dinamik olarak **prop** alabilen alt komponentler tanımladık. Böylece üst komponentte bir prop değişimini alt komponente atarak **state management**’i kolaylaştırdık.
 
 > Problem, her bir komponentin üst üste render edilmesiydi.
 
@@ -23,12 +23,14 @@ Bu komponentin içerisine dinamik olarak _prop_ alabilen alt komponentler tanım
 
 İşin sonunda elimizde tamamen kişiselleştirebildiğimiz, küçük bölümlere bölünmüş bir karakter vardı. Rengini ve kullandığı eşyaları değiştiren bir ekran tasarlayacağız. Böylece kullanıcı, mağazadan aldığı eşyaları kuşanabilecek.
 
-![Kasu1](./Kasu/kasu1.jpg "Kasu1")
-
-![Kasu2](./Kasu/kasu2.jpg "Kasu2")
+![Kasu](./Kasu/kasu2.jpg "Kasu")
 
 #### Kasu Tasarım
 
-Aynı zamanda bu hafta, Kasu’nun CSS animasyonunu gerçekleştirdik. Bunu yaparken _Chrome Dev Tools_’un sağlamış olduğu _Animations_ kısmı çok büyük yarar sağladı. Animasyonların zamanını ayarlamak ve Kasu’nun nefes alıp veriyormuş gibi salınmasını sağlamak, Kasu’ya canlılık kattı. Aynı zamanda, parçaların aynı animasyon class’ını kullanması, koddaki tekrarlığı azalttı.
+Aynı zamanda bu hafta, Kasu’nun CSS animasyonunu gerçekleştirdik. Bunu yaparken **Chrome Dev Tools**’un sağlamış olduğu **Animations** kısmı çok büyük yarar sağladı. Animasyonların zamanını ayarlamak ve Kasu’nun nefes alıp veriyormuş gibi salınmasını sağlamak, Kasu’ya canlılık kattı. Aynı zamanda, parçaların aynı animasyon class’ını kullanması, koddaki tekrarlığı azalttı.
 
 ![Kasu’ya Hayat Katan Küçük Kod Parçacığı](./Kasu/kasu3.jpg "Kasu’ya Hayat Katan Küçük Kod Parçacığı")
+
+> Vee Kasu hareket ediyor :)
+
+![Kasu Hareket Ediyor](./Kasu/kasu3.gif "Kasu Hareket Ediyor")
