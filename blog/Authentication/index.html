@@ -1,23 +1,23 @@
 <!DOCTYPE html><html lang="tr"><head><meta name="generator" content="Hexo 3.9.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index, follow"><title>Ana Ekran Tasarımı • Pod Blog</title><meta name="description" content="Ana Ekran Tasarımı - Ata Gülalan"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="https://unpkg.com/nanoreset@3.0.1/nanoreset.min.css"><link rel="stylesheet" href="/css/theme.css"><link rel="search" type="application/opensearchdescription+xml" href="/atom.xml" title="Pod Blog"></head><body><div class="wrap" id="barba-wrapper"><header><h1 class="branding"><a href="/" title="Pod Blog"><img class="logo-image" src="/logo.svg" alt="logo"></a></h1><ul class="nav nav-list"><li class="nav-list-item"><a class="nav-list-link no-barba" href="/" target="_self">ANASAYFA</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="/takim" target="_self">TAKIM</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="https://github.com/wepod" target="_blank">GITHUB</a></li><li class="nav-list-item"><a class="nav-list-link no-barba" href="/atom.xml" target="_self">RSS</a></li></ul></header><div class="barba-container"><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">Ana Ekran Tasarımı</h1><div class="post-info"><a></a>09 Nisan 2020<a class="post-tag" href="/tags/atagulalan" title="atagulalan">atagulalan</a><a class="post-tag" href="/tags/oguzturker8" title="oguzturker8">oguzturker8</a><a class="post-tag" href="/tags/stunali" title="stunali">stunali</a></div><div class="post-content"><p>Frontend Authentication , Backend Authentication</p>
 <a id="more"></a>
 
-<h4 id="Frontend-Authentication"><a href="#Frontend-Authentication" class="headerlink" title="Frontend Authentication"></a>Frontend Authentication</h4><p>Kullanıcının authentication işlemleri için gerekli sayfaları oluşturduk. Hesap girişi, kayıt olma ve şifre sıfırlama ekranları oluşturduk. Bu ekranları ana sayfa ile birleştirdik. <em>Modal’i</em> elle çizilmiş gibi yaparak tasarımın temiz, ancak doğal gözükmesini amaçladık.</p>
+<h4 id="Frontend-Authentication"><a href="#Frontend-Authentication" class="headerlink" title="Frontend Authentication"></a>Frontend Authentication</h4><p>Kullanıcının authentication işlemleri için gerekli sayfaları oluşturduk. Hesap girişi, kayıt olma ve şifre sıfırlama ekranları oluşturduk. Bu ekranları ana sayfa ile birleştirdik. <strong>Modal’i</strong> elle çizilmiş gibi yaparak tasarımın temiz, ancak doğal gözükmesini amaçladık.</p>
 <p><img src="/blog/Authentication/Authentication.jpg" alt="Authentication" title="Authentication"></p>
-<h4 id="Backend-Authentication"><a href="#Backend-Authentication" class="headerlink" title="Backend Authentication"></a>Backend Authentication</h4><p>Bu hafta kullanıcının authentication işlemlerini gerçekleştirmek için gereken altyapı işlemlerini tanımladık. Öncelikle kullanıcının <em>veritabanı modeli</em> oluşturuldu. Daha sonra;</p>
+<h4 id="Backend-Authentication"><a href="#Backend-Authentication" class="headerlink" title="Backend Authentication"></a>Backend Authentication</h4><p>Bu hafta kullanıcının authentication işlemlerini gerçekleştirmek için gereken altyapı işlemlerini tanımladık. Öncelikle kullanıcının <strong>veritabanı modeli</strong> oluşturuldu. Daha sonra;</p>
 <ul>
 <li>login,</li>
 <li>logout,</li>
 <li>register,</li>
 <li>resetPassword</li>
 </ul>
-<p><em>router</em> tanımları yapıldı.</p>
-<p>Router tanımları yapıldıktan sonra <em>controller</em> tanımları yapıldı. Controller tanımlarında her bir işlem için ayrı fonksiyonlar içinde gerekli tanımlamalar yapıldı.</p>
+<p><strong>router</strong> tanımları yapıldı.</p>
+<p>Router tanımları yapıldıktan sonra <strong>controller</strong> tanımları yapıldı. Controller tanımlarında her bir işlem için ayrı fonksiyonlar içinde gerekli tanımlamalar yapıldı.</p>
 <blockquote>
 <p>Kullanıcı authentication işlemlerini yönetmek için JWT standardı kullanıldı.</p>
 </blockquote>
-<p>Kullanıcı giriş yaptıktan sonra üretilen <em>token</em>i kontrol edip <em>API_’lere erişebilmesi için gerekli olan _middleware</em> yapısı oluşturuldu.</p>
+<p>Kullanıcı giriş yaptıktan sonra üretilen <strong>token</strong>i kontrol edip <strong>API</strong>’lere erişebilmesi için gerekli olan <strong>middleware</strong> yapısı oluşturuldu.</p>
 <ul>
-<li>Kullanıcının güvenliği için girdiği şifreyi <em>hash</em>leme ve <em>salt</em> işlemlerini yapacak kütüphane projeye entegre edildi.</li>
+<li>Kullanıcının güvenliği için girdiği şifreyi <strong>hash</strong>leme ve <strong>salt</strong> işlemlerini yapacak kütüphane projeye entegre edildi.</li>
 <li>Kullanıcının şifresini unutması durumunda şifresini değiştirmesi için e-posta ile şifre yenileme mekanizması geliştirildi.</li>
 <li>Şifre yenileme ekranında API işlemlerini yönetmek için token yapısı kullanıldı.</li>
 <li>Oyunda oluşabilecek hataları yönetmek için merkezi bir hata mekanizması oluşturuldu.</li>

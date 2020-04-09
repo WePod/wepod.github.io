@@ -2,18 +2,21 @@
 <a id="more"></a>
 
 <h4 id="Kasu-Tasarim"><a href="#Kasu-Tasarim" class="headerlink" title="Kasu Tasarım"></a>Kasu Tasarım</h4><blockquote>
-<p>Bu hafta oyunun ana karakteri olan <em>Kasu</em> için bir component tanımladık.</p>
+<p>Bu hafta oyunun ana karakteri olan <strong>Kasu</strong> için bir component tanımladık.</p>
 </blockquote>
-<p>Bu komponentin içerisine dinamik olarak <em>prop</em> alabilen alt komponentler tanımladık. Böylece üst komponentte bir prop değişimini alt komponente atarak _state management_’i kolaylaştırdık.</p>
+<p>Bu komponentin içerisine dinamik olarak <strong>prop</strong> alabilen alt komponentler tanımladık. Böylece üst komponentte bir prop değişimini alt komponente atarak <strong>state management</strong>’i kolaylaştırdık.</p>
 <blockquote>
 <p>Problem, her bir komponentin üst üste render edilmesiydi.</p>
 </blockquote>
 <p>Örneğin Kasu’nun gözlüğünün, Kasu’nun sadece kafasını etkilemesi ve kafası hareket ettiğinde, gözlüğün de kafa ile beraber hareket etmesi gerekiyordu. Ancak gözlerin hareketi, gözlüğün hareketini etkilememeliydi. Ayrıca gözlük, gözlerin her zaman üstüne olmalıydı. Son olarak, gözleri tamamen kapayan gözlüklerin, gözleri gizlemesi gerekiyordu. Son olarak, gözlüğün kafanın arkasında değil, önünde render edilmesi gerekiyordu. Tüm bu problemleri ana komponentte düzenlememiz oldukça kafa karıştırıcı olabilirdi. Bu yüzden karakter bölümlendirmeyi buna göre belirledik.</p>
 <p>İşin sonunda elimizde tamamen kişiselleştirebildiğimiz, küçük bölümlere bölünmüş bir karakter vardı. Rengini ve kullandığı eşyaları değiştiren bir ekran tasarlayacağız. Böylece kullanıcı, mağazadan aldığı eşyaları kuşanabilecek.</p>
-<p><img src="/blog/Kasu/kasu1.jpg" alt="Kasu1" title="Kasu1"></p>
-<p><img src="/blog/Kasu/kasu2.jpg" alt="Kasu2" title="Kasu2"></p>
-<h4 id="Kasu-Tasarim-1"><a href="#Kasu-Tasarim-1" class="headerlink" title="Kasu Tasarım"></a>Kasu Tasarım</h4><p>Aynı zamanda bu hafta, Kasu’nun CSS animasyonunu gerçekleştirdik. Bunu yaparken <em>Chrome Dev Tools_’un sağlamış olduğu _Animations</em> kısmı çok büyük yarar sağladı. Animasyonların zamanını ayarlamak ve Kasu’nun nefes alıp veriyormuş gibi salınmasını sağlamak, Kasu’ya canlılık kattı. Aynı zamanda, parçaların aynı animasyon class’ını kullanması, koddaki tekrarlığı azalttı.</p>
+<p><img src="/blog/Kasu/kasu2.jpg" alt="Kasu" title="Kasu"></p>
+<h4 id="Kasu-Tasarim-1"><a href="#Kasu-Tasarim-1" class="headerlink" title="Kasu Tasarım"></a>Kasu Tasarım</h4><p>Aynı zamanda bu hafta, Kasu’nun CSS animasyonunu gerçekleştirdik. Bunu yaparken <strong>Chrome Dev Tools</strong>’un sağlamış olduğu <strong>Animations</strong> kısmı çok büyük yarar sağladı. Animasyonların zamanını ayarlamak ve Kasu’nun nefes alıp veriyormuş gibi salınmasını sağlamak, Kasu’ya canlılık kattı. Aynı zamanda, parçaların aynı animasyon class’ını kullanması, koddaki tekrarlığı azalttı.</p>
 <p><img src="/blog/Kasu/kasu3.jpg" alt="Kasu’ya Hayat Katan Küçük Kod Parçacığı" title="Kasu’ya Hayat Katan Küçük Kod Parçacığı"></p>
+<blockquote>
+<p>Vee Kasu hareket ediyor :)</p>
+</blockquote>
+<p><img src="/blog/Kasu/kasu3.gif" alt="Kasu Hareket Ediyor" title="Kasu Hareket Ediyor"></p>
 </div></article></div></main><footer><div class="paginator"><a class="prev" href="/blog/Ana-Ekran-Tasarimi/">daha yeni</a><a class="next" href="/blog/Docker/">daha eski</a></div><div class="copyright"><p>&copy; 2019 - 2020 <a href="/">POD Team</a><br>Powered by <a href="https://hexo.io/" rel="noreferrer" target="_blank">Hexo</a></p></div></footer></div></div><script>var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-149031051-1']);
 _gaq.push(['_trackPageview']);
