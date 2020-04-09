@@ -2,114 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wepod.github.io/blog/Ogrenme-Teorileri/</loc>
-    
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://wepod.github.io/takim/index.html</loc>
     
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.820Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/es6/</loc>
     
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.820Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/Styled-Components/</loc>
     
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wepod.github.io/blog/Ikinci-Is-Paketi/</loc>
-    
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wepod.github.io/blog/Kullanacagimiz-Teknolojiler/</loc>
-    
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.820Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/Node-Js/</loc>
     
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wepod.github.io/blog/Nuxt-JS/</loc>
-    
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/Prototip-1/</loc>
     
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wepod.github.io/blog/Pod-Nedir/</loc>
-    
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://wepod.github.io/blog/Prettier-Nedir/</loc>
-    
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/Progressive-Web-App/</loc>
     
-    <lastmod>2020-01-18T16:10:21.491Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://wepod.github.io/blog/Betik-Dili/</loc>
+    <loc>https://wepod.github.io/blog/Ikinci-Is-Paketi/</loc>
     
-    <lastmod>2020-01-18T16:10:21.487Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Ilk-Ilerleme-Raporu/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Kasu/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Kullanacagimiz-Teknolojiler/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Prettier-Nedir/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Nuxt-JS/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Ogrenme-Teorileri/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Pod-Nedir/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.816Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/Figma/</loc>
     
-    <lastmod>2020-01-18T16:10:21.487Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.812Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/Docker/</loc>
     
-    <lastmod>2020-01-18T16:10:21.487Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Betik-Dili/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Authentication/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.812Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wepod.github.io/blog/Ana-Ekran-Tasarimi/</loc>
+    
+    <lastmod>2020-04-09T19:45:09.808Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://wepod.github.io/blog/2209A-Tubitak/</loc>
     
-    <lastmod>2020-01-18T16:10:21.487Z</lastmod>
+    <lastmod>2020-04-09T19:45:09.808Z</lastmod>
     
   </url>
   
