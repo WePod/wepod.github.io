@@ -15,74 +15,74 @@ Prototip -2, 2. İş Paketi Sunumu
 
 > Bitirme çalışması 2. İş Paketi olan Prototip Sunumu
 
-#### Pod | Home
+#### Pod | Ana Sayfa
 
-LOREM IPSUMCUK
+> Kullanıcının proje hakkında bilgi sahibi olduğu, oyuna giriş için hesap işlemlerinin yer aldığı ana sayfadır.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/96wAy3q3md4?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;height: 720px;" width="1280" height="720" src="https://www.youtube.com/embed/96wAy3q3md4?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Kayıt Olma
 
-LOREM IPSUMCUK
+> Kullanıcının sisteme yeni bir hesap ile kayıt olduğu kayıt olma sayfasıdır.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/kxwqnH-oIZ0?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Giriş Yapma
 
-LOREM IPSUMCUK
+> Kullanıcının hesabıyla sisteme giriş yapabildiği sayfadır. Giriş yapmadan oyuna erişilmez.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/vwK4hacunc8?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Şifre Sıfırlama
 
-LOREM IPSUMCUK
+> Kullanıcının e-posta bilgisiyle şifresini sıfırlayabildiği sayfadır. Kullanıcının belirttiği e-posta adresine bir sıfırlama bağlantısı gönderilir.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/OP0lOxTtvzI?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Ormanlar
 
-LOREM IPSUMCUK
+> Ormanlar bölümleri içerir. Önceki orman yeşillendirilmeden sonraki ormana geçilemez.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/aYydINfGGFs?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Eşya Satın Alma
 
-LOREM IPSUMCUK
+> Kullanıcının bölümleri bitirerek kazandığı altınlarla eşya satın alabildiği bölümdür. Kullanıcı satın aldığı eşyaya kalıcı olarak sahip olur.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/WbzvhIRV-1I?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Eşya Giyme
 
-LOREM IPSUMCUK
+> Kullanıcı satın aldığı eşyaları giyebilir. Kombin yapabilir.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/hMh1K7TloME?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Eşya Satın Alamama
 
-LOREM IPSUMCUK
+> Kullanıcının parası satın almak istediği eşyalara yetmediğinde gerçekleşen durumdur.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/m0_unRyaJ9o?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Basit Kod
 
-LOREM IPSUMCUK
+> Kullanıcının algoritma geliştirmek için kullanması gereken anahtar kelimelerin gösterildiği bölümdür.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/6cNL2Acs2vA?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Pod | Kodun Koşması
+#### Pod | Kodun Koşturulması
 
-LOREM IPSUMCUK
+> Geliştirilen kodun adım adım koşturulduğu bölümdür.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/6O-pyNoqNk0?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Karışık Kod
 
-LOREM IPSUMCUK
+> Kullanıcı istenen senaryoya uygun algoritmayı bu bölümdeki gibi oluşturabilmektedir.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/QiuRqQ8C8vM?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pod | Hafıza
 
-LOREM IPSUMCUK
+> Kullanıcıya verilen senaryoda kısıtlı hafıze verilmektedir. Kullanıcı hafızayı taşırmadan algoritmayı senaryoya uygun geliştirmelidir.
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/IqYDF_JY820?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
