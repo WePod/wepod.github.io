@@ -86,3 +86,5 @@ Prototip -2, 2. İş Paketi Sunumu
 > Kullanıcıya verilen senaryoda kısıtlı hafıze verilmektedir. Kullanıcı hafızayı taşırmadan algoritmayı senaryoya uygun geliştirmelidir.
 
 <iframe style="width:100%; height: 477px;" width="1280" height="720" src="https://www.youtube.com/embed/IqYDF_JY820?list=PLaRH9dWzSwmj2QexqraaBLZyrc9IlY7hO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Proje Raporuna [buradan](https://wepod.github.io/blog/Proje-Raporu/) ulaşabilirsiniz.
