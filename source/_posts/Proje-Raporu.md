@@ -13,6 +13,6 @@ Pod Proje Raporu
 
 #### Pod | Proje Raporu
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSpY_VhDfzqLoEp1YQBPp2HmNJIWmZdlPeSxJgiXjxASL20wx5yyugFKs8TuGGBpQ/pub?embedded=true" style="overflow:hidden;height:2500px;width:100%;"  scrolling="no"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSpY_VhDfzqLoEp1YQBPp2HmNJIWmZdlPeSxJgiXjxASL20wx5yyugFKs8TuGGBpQ/pub?embedded=true" style="overflow:hidden;height:2500px;width:100%;" ></iframe>
 
 Proje prototip sunumuna [buradan](https://wepod.github.io/blog/Prototip-2/) ulaşabilirsiniz.
